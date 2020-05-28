@@ -1,0 +1,21 @@
+.jumbotron {
+  background-image: url("img/logo.jpeg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -100px;
+  color: #ffffff;
+
+}
+.jumbotron img {
+
+  border: 2px solid #ffffff
+
+}
+.jumbotron h1, .jumbotron p {
+
+  text-shadow: 1 px 1px 10 px rgba(0,0,0,0.5);
+}
+section {
+  min-height: 300px;
+  
+}
